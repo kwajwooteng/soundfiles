@@ -13,8 +13,8 @@ import sun.audio.AudioStream;
 import sun.audio.ContinuousAudioDataStream;
 /**
  *
- * @author Usered
- * 
+ * @author K Oteng-Amoako
+ * @dated 28 June 2016
  * 
  */
 
